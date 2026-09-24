@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "tutorials": [
+    {
+      "id": "cardboard-phone-stand",
+      "title": "Cardboard Phone Stand",
+      "description": "Make a simple phone stand using cardboard.",
+      "category": "Cardboard DIY",
+      "keywords": [
+        "cardboard",
+        "diy",
+        "phone stand",
+        "craft",
+        "project"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/ruo4RUrJbFM/maxresdefault.jpg",
+      "videoId": "ruo4RUrJbFM"
+    },
+    {
+      "id": "adjustable-cardboard-phone-stand",
+      "title": "Adjustable Cardboard Phone Stand",
+      "description": "Make a Adjustable phone stand using cardboard.",
+      "category": "Cardboard DIY",
+      "keywords": [
+        "cardboard",
+        "diy",
+        "adjustable phone stand",
+        "craft",
+        "adjustable",
+        "project"
+      ],
+      "thumbnail": "https://i.ytimg.com/vi/0PBWhJbf8MU/maxresdefault.jpg",
+      "videoId": "0PBWhJbf8MU"
+    }
+  ]
+}
