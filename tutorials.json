@@ -31,6 +31,20 @@
       ],
       "thumbnail": "https://i.ytimg.com/vi/0PBWhJbf8MU/maxresdefault.jpg",
       "videoId": "0PBWhJbf8MU"
-    }
+    },
+    {
+  "id": "uninstall-system-app-using-adb-shell",
+  "title": "Uninstall system app using ADB shell",
+  "description": "Learn how to uninstall system apps using ADB shell",
+  "category": "Mobile",
+  "keywords": [
+    "ADB shell",
+    "Mobile",
+    "Uninstall",
+    "Uninstall system apps"
+  ],
+  "thumbnail": "https://i.ytimg.com/vi/v7ecC_pXIY0/maxresdefault.jpg",
+  "videoId": "v7ecC_pXIY0"
+}
   ]
 }
